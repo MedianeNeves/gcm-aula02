@@ -1,6 +1,4 @@
 # gcm-aula02
-Aula 2 Git Hub
-
-# Jogo 1
-# Jogo 2
-# Jogo 3
+ # Caio Castro 
+ # Isis Valverde
+ # Paolla Oliveira
